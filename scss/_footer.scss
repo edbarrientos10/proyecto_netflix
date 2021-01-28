@@ -1,0 +1,45 @@
+footer * {
+    background-color: $color_parrafo;
+    color: white;
+    
+
+    .footer_items {
+        justify-content: center;
+    }
+    ul {
+        list-style: none;
+        
+
+    }
+
+    .service {
+        padding: 10px;
+        text-decoration: none;
+        border: 1px solid white;
+    }
+
+    .menu {
+        
+
+    }
+}
+
+footer {
+    width: 75%;
+    
+
+}
+
+li {
+    .link {
+    text-decoration: none;
+    margin: 10px;
+    }
+}
+
+.social_icons svg {
+    width: 27px;
+}
+
+
+
