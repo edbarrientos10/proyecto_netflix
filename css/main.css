@@ -1,3 +1,20 @@
+@charset "UTF-8";
+h1 {
+  color: white;
+  font-size: 75px; }
+
+.grid {
+  display: grid;
+  /*SELECCION DOS CULUMNAS, DE UNA PORCION DE TAMAÑO C/U*/
+  grid-template-columns: repeat(10, 16%);
+  /*SEPARACION ENTR COLUMNAS*/
+  column-gap: 2rem;
+  /*SEPARACION ENTRE FILAS*/
+  row-gap: 2rem; }
+
+.producto__imagen {
+  width: 100%; }
+
 body {
   background-color: black;
   color: aquamarine; }
