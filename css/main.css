@@ -1,5 +1,27 @@
+footer * {
+  background-color: #141414;
+  color: white; }
+  footer * .footer_items {
+    justify-content: center; }
+  footer * ul {
+    list-style: none; }
+  footer * .service {
+    padding: 10px;
+    text-decoration: none;
+    border: 1px solid white; }
+
+footer {
+  width: 75%; }
+
+li .link {
+  text-decoration: none;
+  margin: 10px; }
+
+.social_icons svg {
+  width: 27px; }
+
 body {
-  background-color: black;
+  background-color: #141414;
   color: aquamarine; }
 
 header {
