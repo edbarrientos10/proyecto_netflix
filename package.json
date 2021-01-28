@@ -1,7 +1,6 @@
 {
   "name": "scss",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,5 +10,15 @@
   "license": "ISC",
   "dependencies": {
     "node-sass": "^5.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manuel-Jaibo/proyecto_netflix.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Manuel-Jaibo/proyecto_netflix/issues"
+  },
+  "homepage": "https://github.com/Manuel-Jaibo/proyecto_netflix#readme",
+  "description": ""
 }

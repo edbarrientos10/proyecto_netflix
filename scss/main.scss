@@ -1,7 +1,30 @@
 @import './_global';
+@import './footer';
+
 @import './_slider';
+
+@import './nav';
 
 body {
   background-color: $color_parrafo;
   color: rgb(83, 138, 120);
 }
+
+
+
+header {
+    display: flex;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.icono {
+    width: $tamano-icono;
+}
+
