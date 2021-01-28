@@ -23,3 +23,15 @@ li .link {
 body {
   background-color: #141414;
   color: aquamarine; }
+
+header {
+  display: flex; }
+
+ul {
+  list-style-type: none; }
+
+a {
+  text-decoration: none; }
+
+.icono {
+  width: 30px; }
